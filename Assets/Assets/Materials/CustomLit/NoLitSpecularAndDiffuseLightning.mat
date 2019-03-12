@@ -61,12 +61,13 @@ Material:
     - _OcclusionStrength: 1
     - _ReceiveShadows: 1
     - _SmoothnessTextureChannel: 0
-    - _Specular: 0.35
+    - _Specular: 7.62
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _refForce: 1
     m_Colors:
     - Vector3_F04E7997: {r: 1, g: 1, b: -2.43, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}

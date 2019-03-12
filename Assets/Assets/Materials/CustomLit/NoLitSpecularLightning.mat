@@ -60,8 +60,9 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _ReceiveShadows: 1
+    - _ReflectFactor: 1
     - _SmoothnessTextureChannel: 0
-    - _Specular: 0.6
+    - _Specular: 5
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
