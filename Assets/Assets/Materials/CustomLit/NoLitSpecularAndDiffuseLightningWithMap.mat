@@ -51,6 +51,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 5672ab6113206cd4e9640fa5aeb963d9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_53BE4120_Out:
+        m_Texture: {fileID: 2800000, guid: 5672ab6113206cd4e9640fa5aeb963d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
@@ -65,7 +69,7 @@ Material:
     - _OcclusionStrength: 1
     - _ReceiveShadows: 1
     - _SmoothnessTextureChannel: 0
-    - _Specular: 0.35
+    - _Specular: 10
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
